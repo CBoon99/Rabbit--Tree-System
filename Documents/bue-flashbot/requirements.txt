@@ -1,0 +1,8 @@
+nginx
+streamlit
+plotly
+pandas
+numpy
+datetime
+watchdog
+psutil 
